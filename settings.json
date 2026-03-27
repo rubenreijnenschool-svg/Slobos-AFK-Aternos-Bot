@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "schoolserverB2h.strabrecht.play.hosting",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "",
+    "ip": "schoolserverB2h.strabrecht.play.hosting",
     "port": 20401,
     "version": "",
     "try-creative": false
