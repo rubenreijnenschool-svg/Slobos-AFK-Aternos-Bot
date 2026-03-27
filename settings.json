@@ -8,7 +8,7 @@
   "server": {
     "ip": "schoolserverB2h.strabrecht.play.hosting",
     "port": 38030,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hugo is een chineesen albino aap!",
+        "Tijs is niet flamefrags!",
+        "Stijn heeft een kleine pililililili!"
       ]
     },
     "chat-log": true,
